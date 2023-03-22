@@ -14,7 +14,7 @@ main{
     height: 80%;
     background-color: rgba(255,192,203,0.500);
     border: 3px rgb(0, 0, 0) solid;
-    display: flex;
+
     text-align: center;
 }
 
