@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    background-image: url("../img/1.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    width: 80%;
+    height: 80%;
+    background-color: rgba(255,192,203,0.500);
+    border: 3px rgb(0, 0, 0) solid;
+    display: flex;
+}
